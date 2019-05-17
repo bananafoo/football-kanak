@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "football-kanak",
+"dataUrl": "078973631255e9c72a4a014573263234.unityweb",
+"wasmCodeUrl": "df57e2ee94a434760e7285ba5e64a833.unityweb",
+"wasmFrameworkUrl": "8d78e8463e2eb35efb4346cfb640886d.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"cacheControl": {"default": "must-revalidate"}
+}
